@@ -1,4 +1,4 @@
-name: OficialDockerWorkflow
+name: docker-image-3app-server
 
 on:
   workflow_dispatch:
